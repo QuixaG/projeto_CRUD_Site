@@ -10,8 +10,8 @@
         <input type="email" name="email" class="form-control">
     </div>
     <div class="mb-3">
-        <label for="">Senha</label>
-        <input type="password" name="senha" class="form-control">
+        <label for="">Faixa</label>
+        <input type="text" name="faixa" class="form-control">
     </div>
     <div class="mb-3">
         <label for="">Data de Nascimento</label>
