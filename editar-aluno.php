@@ -17,8 +17,8 @@
         <input type="email" name="email" value="<?php print $row->email; ?>" class="form-control">
     </div>
     <div class="mb-3">
-        <label for="">Senha</label>
-        <input type="password" name="senha" class="form-control" required>
+        <label for="">Faixa</label>
+        <input type="text" name="faixa" class="form-control" required>
     </div>
     <div class="mb-3">
         <label for="">Data de Nascimento</label>
